@@ -1,0 +1,12 @@
+{
+  "type": "module",
+	"scripts": {
+		"dev"
+	},
+  "dependencies": {
+    "@builder.io/partytown": "^0.8.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.1"
+  }
+}
